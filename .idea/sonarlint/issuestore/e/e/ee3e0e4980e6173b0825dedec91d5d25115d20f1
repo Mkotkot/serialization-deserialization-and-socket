@@ -1,0 +1,26 @@
+
+c
+java:S2147—"ECombine this catch with the one at line 147, which has the same body.(ıàÑÎ8–şÁö×.
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(è¢ƒ·øÿÿÿÿ8ª«¿ô×.
+U	java:S106p"9Replace this use of System.out or System.err by a logger.(Şáô8ª«¿ô×.
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(×±¶½ùÿÿÿÿ8ª«¿ô×.
+U	java:S106‰"9Replace this use of System.out or System.err by a logger.(™Ì¸b8–şÁö×.
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(åè‹©ûÿÿÿÿ8÷¼ö×.
+V	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ªçÖè8÷¼ö×.
+c
+java:S2147•"ECombine this catch with the one at line 147, which has the same body.(ï­£Ä8–şÁö×.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(âÌïÂüÿÿÿÿ8–şÁö×.
+k
+java:S2095„"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ù•³½8¬î¨ö×.
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(—êíòúÿÿÿÿ8„™õ×.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(‡ë³Éıÿÿÿÿ8÷¼ö×.
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ù–­ö×.
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¬î¨ö×.
+r
+java:S2095…"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¾Å¨Îûÿÿÿÿ8¬î¨ö×.
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8÷¼ö×.
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(û¨õ¾8÷¯¡ö×.
+p
+java:S2095U"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(º–¯ìúÿÿÿÿ8„™õ×.
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(¦¥¦ùÿÿÿÿÿ8ª«¿ô×.
